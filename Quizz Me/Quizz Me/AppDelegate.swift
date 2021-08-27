@@ -2,12 +2,12 @@
 //  AppDelegate.swift
 //  Quizz Me
 //
-//  Created by Daniel mints on 8/18/21.
+//  Created by Daniel mints on 8/23/21.
 //
 
 import UIKit
 
-    @main
+@main
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
