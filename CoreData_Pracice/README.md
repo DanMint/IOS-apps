@@ -5,6 +5,6 @@ and understanding how CoreData works.
 
 --------------------------------------------------------------------------------------------------------------------------------
 
-Project names and thier discriptions
+**Project names and thier discriptions**
 
 PRACTICE_TABELS: this is not necessarily working with core data but its understanding how to display data in a table view
