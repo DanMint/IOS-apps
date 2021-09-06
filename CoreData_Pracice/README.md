@@ -3,4 +3,6 @@ however it would not feel correct to use them. If I over load user defaults with
 use appels data base that is inbuilt intio xcode called CoreData. With CoreData comes alot to learn so this project will be just learning the basics of CoreData 
 and understanding how CoreData works.
 
+##Project names and thier discriptions
+
 PRACTICE_TABELS: this is not necessarily working with core data but its understanding how to display data in a table view
