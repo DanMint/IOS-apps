@@ -14,7 +14,7 @@ to create a financial diary. Below are the pictures from the "Quizz me" app.
 <p float="left">
   <img src="https://user-images.githubusercontent.com/67702241/131164511-19d2860f-0eec-49ce-9ff5-16c0359a61af.png" width="301" />
   &nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/67702241/131164516-184e4c9f-9363-4a8d-96ce-2e25d568f355.png" width="312" /> 
+  <img src="https://user-images.githubusercontent.com/67702241/131164516-184e4c9f-9363-4a8d-96ce-2e25d568f355.png" width="314" /> 
 </p>
 
 
