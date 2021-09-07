@@ -5,10 +5,10 @@ however it would not feel correct to use them. If I over load user defaults with
 use appels data base that is inbuilt intio xcode called CoreData. With CoreData comes alot to learn so this project will be just learning the basics of CoreData 
 and understanding how CoreData works.
 
---------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## *Project names and thier discriptions*
 
-1.*PRACTICE_TABELS*: This is not necessarily working with core data but its understanding how to display data in a table view.
+1. *PRACTICE_TABELS*: This is not necessarily working with core data but its understanding how to display data in a table view.
 
-2.*delete_from_coreData*: In this mini project i have learned how to delete data from Core Data enteties. Moreover, I have imlemented 2 types of custom table views and 1 default table view.
+2. *delete_from_coreData*: In this mini project i have learned how to delete data from Core Data enteties. Moreover, I have imlemented 2 types of custom table views and 1 default table view.
