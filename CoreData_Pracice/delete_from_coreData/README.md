@@ -8,10 +8,15 @@ and how to refresh a view by scrolling up. Below are posted pictures of the proj
 ## *Picture description*
 
 **pic no.1**: Its where the user can input new vlaues into core data
+
 **pic no.2**: Shows that the user inputed new vlaues (Its Ron Swanson from park and recreations)
+
 **pic no.3**: Shows 3 dipslay option where the last display option allowes to delete
+
 **pic no.4 + 5**: Pic 4 is a standerd IOS table view where pic 5 is a custom table view
+
 **pic no.6**: Its a custom table view that allowes us to delete the data from the table view
+
 **pic no.7**: OOOHHH no we deleted Ron Swanson..... NOOOOOOOOOOOO
 
 
