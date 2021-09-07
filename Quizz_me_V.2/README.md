@@ -6,7 +6,7 @@ to create a financial diary. Below are the pictures from the "Quizz me" app.
 <p float="left">
   <img src="https://user-images.githubusercontent.com/67702241/131164489-70b8058e-51ac-4e7e-afa7-7e706dce1c69.png" width="301" />
   &nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/67702241/131164494-edb220c0-afd9-439e-941a-f335908d7aff.png" width="296" /> 
+  <img src="https://user-images.githubusercontent.com/67702241/131164494-edb220c0-afd9-439e-941a-f335908d7aff.png" width="300" /> 
   &nbsp;&nbsp;
   <img src="https://user-images.githubusercontent.com/67702241/131164501-31da4bb3-7fdd-46e2-9b8a-1dbd6c2d7c93.png"  width="310" />
 </p>
