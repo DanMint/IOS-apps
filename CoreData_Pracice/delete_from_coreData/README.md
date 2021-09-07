@@ -20,5 +20,5 @@ and how to refresh a view by scrolling up. Below are posted pictures of the proj
 **pic no.7**: OOOHHH no we deleted Ron Swanson..... NOOOOOOOOOOOO
 
 
-<img width="299" alt="Screen Shot 2021-09-07 at 3 44 32 PM" src="https://user-images.githubusercontent.com/67702241/132356243-6e95d28f-9384-4fab-82ab-9a5b1e92780c.png">    <img width="302" alt="Screen Shot 2021-09-07 at 3 45 07 PM" src="https://user-images.githubusercontent.com/67702241/132356272-2d538d94-9a1d-4cfe-8464-954620f0b685.png">
+<img width="299" alt="Screen Shot 2021-09-07 at 3 44 32 PM" src="https://user-images.githubusercontent.com/67702241/132356243-6e95d28f-9384-4fab-82ab-9a5b1e92780c.png">    <img width="300" alt="Screen Shot 2021-09-07 at 3 45 07 PM" src="https://user-images.githubusercontent.com/67702241/132356272-2d538d94-9a1d-4cfe-8464-954620f0b685.png">
 
