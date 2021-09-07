@@ -26,3 +26,16 @@ and how to refresh a view by scrolling up. Below are posted pictures of the proj
   &nbsp;&nbsp;
   <img src="https://user-images.githubusercontent.com/67702241/132356757-ad8caf1f-4e09-4f35-accd-d32f1fb62754.png" width="308" />
 </p>
+
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/67702241/132361535-035883c3-cc76-4093-a84c-4a2d9cdb0bce.png" width="299" />
+  &nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/67702241/132361541-4efb27f3-f613-4d96-8ccb-537610910190.png" width="301" /> 
+  &nbsp;&nbsp;
+  <img src="Screen Shot 2021-09-07 at 3 46 27 PM" src="https://user-images.githubusercontent.com/67702241/132361543-a1d70060-e19e-4bc1-aa33-db8128da696b.png" width="308" />
+</p>
+
+
+<img width="312" alt="Screen Shot 2021-09-07 at 3 46 40 PM" src="https://user-images.githubusercontent.com/67702241/132361549-87f23053-c75c-45b2-9efa-1b5a1052dc9b.png">
+
+
