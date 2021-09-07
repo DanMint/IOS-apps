@@ -30,7 +30,7 @@ and how to refresh a view by scrolling up. Below are posted pictures of the proj
 <p float="left">
   <img src="https://user-images.githubusercontent.com/67702241/132361535-035883c3-cc76-4093-a84c-4a2d9cdb0bce.png" width="301" />
   &nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/67702241/132361541-4efb27f3-f613-4d96-8ccb-537610910190.png" width="301" /> 
+  <img src="https://user-images.githubusercontent.com/67702241/132361541-4efb27f3-f613-4d96-8ccb-537610910190.png" width="298" /> 
   &nbsp;&nbsp;
   <img src="https://user-images.githubusercontent.com/67702241/132361754-2f679251-da0a-4be0-b894-a229634b91e3.png"  width="310" />
 </p>
