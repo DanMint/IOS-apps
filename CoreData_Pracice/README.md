@@ -9,6 +9,6 @@ and understanding how CoreData works.
 
 ## *Project names and thier discriptions*
 
-*PRACTICE_TABELS*: This is not necessarily working with core data but its understanding how to display data in a table view.
+1.*PRACTICE_TABELS*: This is not necessarily working with core data but its understanding how to display data in a table view.
 
-*delete_from_coreData*: In this mini project i have learned how to delete data from Core Data enteties. Moreover, I have imlemented 2 types of custom table views and 1 default table view.
+2.*delete_from_coreData*: In this mini project i have learned how to delete data from Core Data enteties. Moreover, I have imlemented 2 types of custom table views and 1 default table view.
