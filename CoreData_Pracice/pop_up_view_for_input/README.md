@@ -14,11 +14,11 @@ In this small and fast project where I implemted a view that pops up every minut
 
 
 <p float="left">
-  <table><tr><td>
+  <table><td>
   <img src="https://user-images.githubusercontent.com/67702241/132920984-8ce83cbb-4a6a-4e8c-b655-02e5a0b99116.png" width="299" />
   </td></tr></table>
   &nbsp;&nbsp;
-  <table><tr><td>
+  <table><td>
   <img src="https://user-images.githubusercontent.com/67702241/132920987-800a284b-29c6-4c69-b791-70947424ee11.png" width="303" /> 
   </td></tr></table>
   &nbsp;&nbsp;
