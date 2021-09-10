@@ -25,13 +25,15 @@ In this long project I learned how to edit data in Core Data using custom table 
   <img src="https://user-images.githubusercontent.com/67702241/132887048-d50b6d39-eb2d-4c03-940b-a829f8d56226.png" width="303" />
 </p>
 
-<!-- <p float="left">
-  <img src="https://user-images.githubusercontent.com/67702241/132356243-6e95d28f-9384-4fab-82ab-9a5b1e92780c.png" width="299" />
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/67702241/132887449-0744262b-719e-4ed8-bb92-1aed1b43c809.png" width="299" />
   &nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/67702241/132356272-2d538d94-9a1d-4cfe-8464-954620f0b685.png" width="301" /> 
+  <img src="https://user-images.githubusercontent.com/67702241/132887453-dab4a78b-30b0-45d5-95e4-3546e186121b.png" width="301" /> 
   &nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/67702241/132356757-ad8caf1f-4e09-4f35-accd-d32f1fb62754.png" width="308" />
+  <img src="https://user-images.githubusercontent.com/67702241/132887457-e60533a8-0821-41f2-adc3-dee3158dca0e.png" width="308" />
 </p>
 
- -->
+<img width="305" alt="Screen Shot 2021-09-10 at 6 24 10 PM" src="https://user-images.githubusercontent.com/67702241/132887512-f4fd73cf-c352-4959-9c65-edef4f086876.png">
+
+
 
