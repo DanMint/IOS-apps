@@ -16,3 +16,7 @@ and understanding how CoreData works.
 3. [*newDelete_edit_CoreData*](https://github.com/DanMint/IOS-apps/tree/main/CoreData_Pracice/newDelete_edit_CoreData): In this more or less long project i have learned how to delete more optimaly from core data (after every delete the custom table view auto refreshes) and how to edit/modify data in core data.
 
 4. [*pop_up_view_for_input*](https://github.com/DanMint/IOS-apps/tree/main/CoreData_Pracice/pop_up_view_for_input): In this short and fun project I have learned how to create a pop up view that asks the user to input data every minute and stores it in core data.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+After gaining this knowledge im starting to work on a new project called ***Track me***
