@@ -11,7 +11,7 @@ and understanding how CoreData works.
 
 1. [*PRACTICE_TABELS*](https://github.com/DanMint/IOS-apps/tree/main/CoreData_Pracice/PRACTICE_TABELS): This is not necessarily working with core data but its understanding how to display data in a table view.
 
-2. [*delete_from_coreData*](https://github.com/DanMint/IOS-apps/tree/main/CoreData_Pracice/delete_from_coreData): In this mini project i have learned how to delete data from Core Data enteties. Moreover, I have imlemented 2 types of custom table views and 1 default table view.
+2. [*delete_from_coreData*](https://github.com/DanMint/IOS-apps/tree/main/CoreData_Pracice/delete_from_coreData): In this mini project i have learned how to delete data from Core Data enteties. Moreover, I have implemented 2 types of custom table views and 1 default table view.
 
 3. [*newDelete_edit_CoreData*](https://github.com/DanMint/IOS-apps/tree/main/CoreData_Pracice/newDelete_edit_CoreData): In this more or less long project i have learned how to delete more optimaly from core data (after every delete the custom table view auto refreshes) and how to edit/modify data in core data.
 
