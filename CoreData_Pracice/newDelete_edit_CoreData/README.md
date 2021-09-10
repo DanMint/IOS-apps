@@ -30,7 +30,7 @@ In this long project I learned how to edit data in Core Data using custom table 
   &nbsp;&nbsp;
   <img src="https://user-images.githubusercontent.com/67702241/132887453-dab4a78b-30b0-45d5-95e4-3546e186121b.png" width="302" /> 
   &nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/67702241/132887457-e60533a8-0821-41f2-adc3-dee3158dca0e.png" width="306" />
+  <img src="https://user-images.githubusercontent.com/67702241/132887457-e60533a8-0821-41f2-adc3-dee3158dca0e.png" width="305" />
 </p>
 
 <img width="305" alt="Screen Shot 2021-09-10 at 6 24 10 PM" src="https://user-images.githubusercontent.com/67702241/132887512-f4fd73cf-c352-4959-9c65-edef4f086876.png">
