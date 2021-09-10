@@ -20,9 +20,9 @@ In this long project I learned how to edit data in Core Data using custom table 
 <p float="left">
   <img src="https://user-images.githubusercontent.com/67702241/132886977-4f596fe0-5e45-4d6e-8ef4-9f8e57605db2.png" width="299" />
   &nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/67702241/132887040-31212480-5b23-416f-bf07-2c0db4847f67.png" width="304" /> 
+  <img src="https://user-images.githubusercontent.com/67702241/132887040-31212480-5b23-416f-bf07-2c0db4847f67.png" width="303" /> 
   &nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/67702241/132887048-d50b6d39-eb2d-4c03-940b-a829f8d56226.png" width="304" />
+  <img src="https://user-images.githubusercontent.com/67702241/132887048-d50b6d39-eb2d-4c03-940b-a829f8d56226.png" width="303" />
 </p>
 
 <!-- <p float="left">
