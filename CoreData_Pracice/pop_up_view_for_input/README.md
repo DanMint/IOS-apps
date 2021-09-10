@@ -23,5 +23,8 @@ In this small and fast project where I implemted a view that pops up every minut
   </kbd>
 </p>
 
+<kbd>
+<img width="299" alt="Screen Shot 2021-09-10 at 11 27 13 PM" src="https://user-images.githubusercontent.com/67702241/132922114-8d3fcd54-7c26-4309-b61e-c7168444cd12.png">
+</kbd>
 
 
